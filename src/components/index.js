@@ -1,0 +1,5 @@
+export {default as Header } from './home/Header/Header'
+export {default as Footer} from './home/Footer/Footer'
+export {default as Hero} from './home/Hero/Hero'
+export {default as Futures} from './home/futures/Futures'
+export {default as Itemcard} from './Job/ItemCard/Itemcard'

@@ -1,0 +1,25 @@
+.job-search-title{
+      margin-top: 50px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+}
+.job-search-title input{
+      width: 300px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 17px;
+      
+}
+.job-search-title label{
+  font-weight: 500;
+}
+.jobs-container{
+      display: flex;
+      margin-top: 50px;
+      margin-bottom:50px;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      gap: 30px;
+      min-height:250px;
+}

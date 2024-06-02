@@ -1,0 +1,44 @@
+.Job-description-container{
+      width: 100%;
+      display: flex;
+      justify-content:center;
+      margin-top: 50px;
+      padding-left: 10%;
+      padding-right: 10%;
+      min-height: 600px;
+}
+.job-description-card-container{
+      width: 80%;
+      background-color: var(--bg-color);
+      padding: 10px;
+}
+.Job-description-container div{
+      margin-bottom: 30px;
+}
+.job-description-card-container .company-info div{
+     display: flex;
+     align-items: center;
+     gap: 10px;
+}
+.job-description-card-container .company-info img{
+      width: 50px;
+      height: 50px;
+}
+.job-description-card-container h3::after{
+      content: '';
+      width: 100%;
+      height: 2px;
+      background-color: var(--4-color);
+      display: block;
+      margin-bottom: 20px;
+
+}
+.job-description-card-container h3::before{
+      content: '';
+      display: inline-block;
+      width: 15px;
+      height: 15px;
+      margin-right: 10px;
+      border-radius: 50%;
+      background-color: var(--4-color);
+}

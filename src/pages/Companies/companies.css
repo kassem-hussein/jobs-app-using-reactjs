@@ -1,0 +1,25 @@
+.companies-heading{
+      margin:30px 0px;
+      text-align: center;
+}
+.companies-container{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 30px;
+}
+.company-card{
+      background-color: var(--bg-color);
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+      align-items: center;
+      transition: all 0.5s;
+}
+.company-card:hover{
+      scale: 1.1;
+}

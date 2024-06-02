@@ -1,0 +1,236 @@
+[
+      {     
+            "id":1,
+            "job_title":"Front-end Developer",
+            "company":"google",
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg",
+            "job_requirement":[
+                  "Solid exprence in JavaScript",
+                  "Solid exprence in React js",
+                  "Solid expernce in Tailwend css",
+                  "Solid expernce in Bootstrap"
+            ],
+            "job_responslity":[
+                  "Create a new web pages",
+                  "customize a website",
+                  "build Full Frontend website"
+            ],
+            "job_skills":[
+                  "HTML","CSS","JS","JQuery","React js","Tailwend CSS","Bootstrap"
+            ],
+            "futures":true,
+            "email":"jobs@google.com"
+
+
+      },
+      {     
+            "id":2,
+            "job_title":"Back-end Developer",
+            "company":"Facebook",
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png",
+            "job_requirement":[
+                  "Solid exprence in node js",
+                  "Solid exprence in API",
+                  "Solid expernce in  REST",
+                  "Solid expernce in MVC"
+            ],
+            "job_responslity":[
+                  "build new APIs",
+                  "maintanace old APIs",
+                  "work with team to make APIs"
+            ],
+            "job_skills":[
+                  "HTML","CSS","JS","node js","express js","REST API","RESTFull API"
+            ],
+            "futures":true,
+            "email":"jobs@facebook.com"
+
+
+      },
+      {     
+            "id":3,
+            "job_title":"Front-end Developer",
+            "company":"Amazon",
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Amazon_icon.svg",
+            "job_requirement":[
+                  "Solid exprence in node js",
+                  "Solid exprence in API",
+                  "Solid expernce in  REST",
+                  "Solid expernce in MVC"
+            ],
+            "job_responslity":[
+                  "build new APIs",
+                  "maintanace old APIs",
+                  "work with team to make APIs"
+            ],
+            "job_skills":[
+                  "HTML","CSS","JS","node js","express js","REST API","RESTFull API"
+            ],
+            "futures":true,
+            "email":"jobs@amazon.com"
+
+
+      },
+      {     
+            "id":4,
+            "job_title":"Laravel Developer",
+            "company":"google",
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg",
+            "job_requirement":[
+                  "Solid exprence in php",
+                  "Solid exprence in Api",
+                  "Solid expernce in Blade engin",
+                  "Solid expernce in  RESTFull APIs"
+            ],
+            "job_responslity":[
+                  "Create Full website using Laravel",
+                  "work with team to create new websites",
+                  "maintanace older websites"
+            ],
+            "job_skills":[
+                  "HTML","CSS","JS","php","JQuery","Bale engin","Tailwend CSS","Bootstrap","laravel"
+            ],
+            "futures":true,
+            "email":"jobs@google.com"
+
+
+      },{     
+            "id":5,
+            "job_title":"Joiner React Developer",
+            "company":"Facebook",
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png",
+            "job_requirement":[
+                  "Solid exprence in JavaScript",
+                  "Solid exprence in React js"
+            ],
+            "job_responslity":[
+                  "testing new futures in React",
+                  "work with team to build a new website",
+                  "work with react team to add new futures"
+            ],
+            "job_skills":[
+                  "HTML","CSS","JS","JQuery","React js","Tailwend CSS","Bootstrap"
+            ],
+            "futures":false,
+            "email":"jobs@facebook.com"
+
+
+      },
+      {     
+            "id":6,
+            "job_title":"Senoier Front-end Developer",
+            "company":"google",
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg",
+            "job_requirement":[
+                  "Solid exprence in JavaScript",
+                  "Solid exprence in React js",
+                  "Solid expernce in Tailwend css",
+                  "Solid expernce in Bootstrap"
+            ],
+            "job_responslity":[
+                  "Create a new web pages",
+                  "customize a website",
+                  "build Full Frontend website"
+            ],
+            "job_skills":[
+                  "HTML","CSS","JS","JQuery","React js","Tailwend CSS","Bootstrap"
+            ],
+            "futures":false,
+            "email":"jobs@google.com"
+
+
+      },{     
+            "id":7,
+            "job_title":"Senoier back-end Developer",
+            "company":"google",
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg",
+            "job_requirement":[
+                  "Solid exprence in JavaScript",
+                  "Solid exprence in node js",
+                  "Solid expernce in API",
+                  "Solid expernce in RESTfull API"
+            ],
+            "job_responslity":[
+                  "build new APIs",
+                  "maintanace old APIs",
+                  "work with team to make APIs"
+            ],
+            "job_skills":[
+                  "HTML","CSS","JS","node js","express js","REST API","RESTFull API"
+            ],
+            "futures":false,
+            "email":"jobs@google.com"
+
+
+      },{     
+            "id":8,
+            "job_title":"Front-end Developer",
+            "company":"Amazon",
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Amazon_icon.svg",
+            "job_requirement":[
+                  "Solid exprence in JavaScript",
+                  "Solid exprence in React js",
+                  "Solid expernce in Tailwend css",
+                  "Solid expernce in Bootstrap"
+            ],
+            "job_responslity":[
+                  "Create a new web pages",
+                  "customize a website",
+                  "build Full Frontend website"
+            ],
+            "job_skills":[
+                  "HTML","CSS","JS","JQuery","React js","Tailwend CSS","Bootstrap"
+            ],
+            "futures":false,
+            "email":"jobs@amazon.com"
+
+
+      },{     
+            "id":9,
+            "job_title":"Front-end Developer",
+            "company":"google",
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg",
+            "job_requirement":[
+                  "Solid exprence in JavaScript",
+                  "Solid exprence in React js",
+                  "Solid expernce in Tailwend css",
+                  "Solid expernce in Bootstrap"
+            ],
+            "job_responslity":[
+                  "Create a new web pages",
+                  "customize a website",
+                  "build Full Frontend website"
+            ],
+            "job_skills":[
+                  "HTML","CSS","JS","JQuery","React js","Tailwend CSS","Bootstrap"
+            ],
+            "futures":false,
+            "email":"jobs@google.com"
+
+
+      },{     
+            "id":10,
+            "job_title":"Front-end Developer",
+            "company":"google",
+            "logo":"https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg",
+            "job_requirement":[
+                  "Solid exprence in JavaScript",
+                  "Solid exprence in React js",
+                  "Solid expernce in Tailwend css",
+                  "Solid expernce in Bootstrap"
+            ],
+            "job_responslity":[
+                  "Create a new web pages",
+                  "customize a website",
+                  "build Full Frontend website"
+            ],
+            "job_skills":[
+                  "HTML","CSS","JS","JQuery","React js","Tailwend CSS","Bootstrap"
+            ],
+            "futures":false,
+            "email":"jobs@google.com"
+
+
+      }
+
+]
